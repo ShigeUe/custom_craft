@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#Q#",
+    "###"
+  ],
+  "key": {
+    "#": { "item": "minecraft:popped_chorus_fruit" },
+    "Q": { "item": "minecraft:quartz" }
+  },
+  "result": {
+    "id": "minecraft:nautilus_shell",
+    "count": 1
+  },
+  "group": "nautilus_shell"
+}

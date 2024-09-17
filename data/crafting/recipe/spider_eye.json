@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:redstone" }
+  ],
+  "result": {
+    "id": "minecraft:spider_eye",
+    "count": 1
+  },
+  "group": "spider_eye"
+}

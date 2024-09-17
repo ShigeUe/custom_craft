@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "gDg",
+    "ggg"
+  ],
+  "key": {
+    "g": { "item": "minecraft:gold_ingot" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "id": "minecraft:ghast_tear",
+    "count": 1
+  },
+  "group": "ghast_tear"
+}

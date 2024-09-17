@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#H#",
+    "###"
+  ],
+  "key": {
+    "#": { "item": "minecraft:leather" },
+    "H": { "item": "minecraft:honeycomb" }
+  },
+  "result": {
+    "id": "minecraft:phantom_membrane",
+    "count": 1
+  },
+  "group": "phantom_membrane"
+}

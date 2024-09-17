@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "g",
+    "R",
+    "/"
+  ],
+  "key": {
+    "g": { "item": "minecraft:gold_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "/": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "id": "minecraft:blaze_rod",
+    "count": 1
+  },
+  "group": "blaze_rod"
+}
