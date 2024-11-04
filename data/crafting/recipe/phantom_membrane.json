@@ -6,8 +6,8 @@
     "###"
   ],
   "key": {
-    "#": { "item": "minecraft:leather" },
-    "H": { "item": "minecraft:honeycomb" }
+    "#": "minecraft:leather",
+    "H": "minecraft:honeycomb"
   },
   "result": {
     "id": "minecraft:phantom_membrane",

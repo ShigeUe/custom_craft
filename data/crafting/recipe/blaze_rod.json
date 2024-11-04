@@ -6,9 +6,9 @@
     "/"
   ],
   "key": {
-    "g": { "item": "minecraft:gold_ingot" },
-    "R": { "item": "minecraft:redstone" },
-    "/": { "item": "minecraft:stick" }
+    "g": "minecraft:gold_ingot",
+    "R": "minecraft:redstone",
+    "/": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:blaze_rod",

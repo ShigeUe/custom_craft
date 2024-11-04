@@ -6,8 +6,8 @@
     "###"
   ],
   "key": {
-    "#": { "item": "minecraft:popped_chorus_fruit" },
-    "Q": { "item": "minecraft:quartz" }
+    "#": "minecraft:popped_chorus_fruit",
+    "Q": "minecraft:quartz"
   },
   "result": {
     "id": "minecraft:nautilus_shell",

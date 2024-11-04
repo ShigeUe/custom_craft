@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    { "item": "minecraft:chorus_fruit" },
-    { "item": "minecraft:green_dye" }
+    "minecraft:chorus_fruit",
+    "minecraft:green_dye"
   ],
   "result": {
     "id": "minecraft:slime_ball",

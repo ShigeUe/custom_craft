@@ -6,8 +6,8 @@
     "###"
   ],
   "key": {
-    "#": { "item": "minecraft:netherite_ingot" },
-    "D": { "item": "minecraft:diamond" }
+    "#": "minecraft:netherite_ingot",
+    "D": "minecraft:diamond"
   },
   "result": {
     "id": "minecraft:nether_star",

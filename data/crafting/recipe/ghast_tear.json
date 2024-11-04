@@ -6,8 +6,8 @@
     "ggg"
   ],
   "key": {
-    "g": { "item": "minecraft:gold_ingot" },
-    "D": { "item": "minecraft:diamond" }
+    "g": "minecraft:gold_ingot",
+    "D": "minecraft:diamond"
   },
   "result": {
     "id": "minecraft:ghast_tear",
