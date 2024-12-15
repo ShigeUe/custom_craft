@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:pale_oak_planks",
+    "minecraft:honeycomb"
+  ],
+  "result": {
+    "id": "minecraft:resin_clump",
+    "count": 1
+  },
+  "group": "resin_clump"
+}
